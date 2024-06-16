@@ -1,3 +1,6 @@
 [submodule "neovim/nvim-config"]
 	path = neovim/nvim-config
 	url = https://github.com/IliyanKostov9/nvim-config.git
+[submodule "nixos/nixos-config"]
+	path = nixos/nixos-config
+	url = https://github.com/IliyanKostov9/nixos-config.git
