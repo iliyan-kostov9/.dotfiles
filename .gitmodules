@@ -4,3 +4,9 @@
 [submodule "nixos/nixos-config"]
 	path = nixos/nixos-config
 	url = https://github.com/IliyanKostov9/nixos-config.git
+[submodule "terminator/terminator-config"]
+	path = terminator/terminator-config
+	url = https://github.com/IliyanKostov9/terminator-config.git
+[submodule "i3/i3-config"]
+	path = i3/i3-config
+	url = https://github.com/IliyanKostov9/i3-config.git
