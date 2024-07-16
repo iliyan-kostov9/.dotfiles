@@ -1,3 +1,7 @@
+# .Dotfiles
+
+This project is related to provisioning my personal .dotfiles used in UNIX systems (e.g Ubuntu, NixOS)
+
 # Tmux configuration features
 
 - Vi binding support
