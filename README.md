@@ -2,7 +2,8 @@
 
 This project is related to provisioning my personal .dotfiles used in UNIX systems (e.g Ubuntu, NixOS)
 
-# Tmux configuration features
+## Tools included
+### Tmux
 
 - Vi binding support
 - color support fo tmux
