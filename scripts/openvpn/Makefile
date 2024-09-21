@@ -12,3 +12,8 @@ renew-cert:
 	sudo certbot renew --dry-run
 	echo "Renew success. Updated expiry date:"
 	sudo certbot certificates
+
+.PHONY: issue-cert
+issue-cert:
+	sudo apt install certbot -y
+
